@@ -9,3 +9,7 @@ run
 eclipse
 test
 update
+run
+test
+update
+eclipse
