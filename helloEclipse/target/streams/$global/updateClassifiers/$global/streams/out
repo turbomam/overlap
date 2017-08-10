@@ -1061,7 +1061,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.3!scala-compiler.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.14.4!jline.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.14.4!jline.jar(doc)[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 94ms :: artifacts dl 5ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 133ms :: artifacts dl 9ms[0m
 [0m[[0mdebug[0m] [0m	report for hello#hello$sources_javadoc_2.12;1.0 compile produced in /home/mark/gitstage/helloEclipse/target/scala-2.12/resolution-cache/reports/hello-hello$sources_javadoc_2.12-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for hello#hello$sources_javadoc_2.12;1.0 runtime produced in /home/mark/gitstage/helloEclipse/target/scala-2.12/resolution-cache/reports/hello-hello$sources_javadoc_2.12-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for hello#hello$sources_javadoc_2.12;1.0 test produced in /home/mark/gitstage/helloEclipse/target/scala-2.12/resolution-cache/reports/hello-hello$sources_javadoc_2.12-test.xml[0m
@@ -1075,4 +1075,4 @@
 [0m[[0mdebug[0m] [0m	report for hello#hello$sources_javadoc_2.12;1.0 docs produced in /home/mark/gitstage/helloEclipse/target/scala-2.12/resolution-cache/reports/hello-hello$sources_javadoc_2.12-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for hello#hello$sources_javadoc_2.12;1.0 pom produced in /home/mark/gitstage/helloEclipse/target/scala-2.12/resolution-cache/reports/hello-hello$sources_javadoc_2.12-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for hello#hello$sources_javadoc_2.12;1.0 scala-tool produced in /home/mark/gitstage/helloEclipse/target/scala-2.12/resolution-cache/reports/hello-hello$sources_javadoc_2.12-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (94ms resolve - 5ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (133ms resolve - 9ms download)[0m
