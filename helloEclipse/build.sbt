@@ -10,3 +10,6 @@ libraryDependencies += "org.scalactic" %% "scalactic" % "3.0.1"
 
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.1" % "test"
 
+libraryDependencies += "org.eclipse.rdf4j" % "rdf4j-runtime" % "2.2.2"
+
+
