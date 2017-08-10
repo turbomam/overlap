@@ -1,4 +1,0 @@
-[0m[[0minfo[0m] [0m[32mExampleSuite:[0m[0m
-[0m[[0minfo[0m] [0m[32m- test 2 expected values are equal[0m[0m
-[0m[[0minfo[0m] [0m[31m- test 2 values are different and fail *** FAILED ***[0m[0m
-[0m[[0minfo[0m] [0m[31m  2 did not equal 3 (ExampleSuite.scala:12)[0m[0m
